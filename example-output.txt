@@ -1,0 +1,59 @@
+ 
+ 
+SÍLABO DE BASE DE DATOS II 
+ 
+1. INFORMACIÓN GENERAL 
+Facultad                   :  Facultad de Ingeniería 
+Escuela                  :  Ingeniería de Sistemas 
+Nombre de la asignatura           : Base de Datos II 
+Código de la asignatura            :  SI-771 
+Semestre Académico                :  2020-I 
+Ciclo                  : VII 
+Horas                  :  02 Horas de Teoría/04 de Practica 
+Créditos                  :  04 
+Tipo de asignatura                 : (x) Obligatorio    ( ) Electivo 
+Pre-Requisito                  : Base de Datos I 
+Docente                  :  Mag. Ing. Patrick Cuadros Quiroga 
+E-mail                  :  patrick_jcq@hotmail.com 
+ 
+2. SUMILLA. 
+La asignatura de Base de Datos II es de naturaleza teórico-práctico, pertenece al Área de Base de Datos e Inteligencia de 
+Negocios,  tiene  un  carácter  obligatorio  y  su  finalidad  es  desarrollar  en  el  estudiante  las  habilidades  y  destrezas  para  el 
+análisis,  diseño  e  implementación  de  soluciones  de  bases  de  datos  bajo  escenarios  modernos  de  aplicaciones 
+computarizadas,  utilizando  diversos conceptos  y  técnicas  de  sistemas  de  base  de  datos  orientada  por  la  tecnología,  su 
+evolución  y  aplicaciones  actuales  en  variados  contextos,  así  como  también  se  estudian  los  principales  modelos 
+semánticos  y  los  fundamentos  de  base  de  datos relacionales  y  no  relacionales,  constituyendo  una  perspectiva  amplia 
+sobre base de datos y sistemas de información.  
+Comprende: 
+UNIDAD DIDÁCTICA 01: ARQUITECTURA Y GESTIÓN BASES DE DATOS RELACIONALES 
+UNIDAD DIDÁCTICA 02: ARQUITECTURA Y GESTIÓN BASES DE DATOS NO RELACIONALES 
+UNIDAD DIDACTICA 03: ASPECTOS AVANZADOS DEL ACCESO A DATOS 
+ 
+ 
+3. COMPETENCIA DE LA ASIGNATURA. 
+COMPETENCIA EVIDENCIA 
+Conoce  la  arquitectura y  aplica buenas  prácticas  en  la Presenta    Guías    de    Solución    de    Casos    utilizando 
+administración   e   implementación de base   de   datos, Estrategias de Base de Datos 
+logrando la participación y responsabilidad del alumno en la  
+solución  de  problemas  en  la  continuidad  del  servicio  del  
+negocio.  Valora a la  información como uno  de  los  activos 
+más valiosos de la empresa. 
+ 
+4. ARTICULACIÓN CON COMPETENCIAS GENÉRICAS UPT 
+Competencia Genérica UPT:  Pensamiento crítico 
+Criterio Nivel de Logro 
+Demuestra   capacidad   para   plantear 1 Genera  al  menos  una  propuesta  de  solución  al  problema,  emite  juicios  y 
+soluciones a problemas. argumenta sus ideas. 
+ 
+5. UNIDADES DIDÁCTICAS 
+5.2 SEGUNDA UNIDAD DIDÁCTICA: ARQUITECTURA Y GESTIÓN BASES DE DATOS RELACIONALES 
+Total Horas: 36 
+5.2.1 Resultados de Aprendizaje:  
+RA1 Analiza e identifica las responsabilidades que asume un DBA.  
+RA2 Conocer los conceptos y terminología de Arquitectura de un Sistema Gestor de Base de Datos.  
+RA3 Conoce,  aplicar  y  diseña  estrategias  de  respaldo  y  en  que  situaciones  deberán  ser  aplicados  como  forma  de 
+aseguramiento de la información.  
+RA4 Descubre la importancia de la aplicación de la auditoria en las bases de datos para incrementar las tareas de 
+seguridad 
+5.2.2 Contenidos 
+Semana Contenidos Conceptuales Contenidos Procedimentales 

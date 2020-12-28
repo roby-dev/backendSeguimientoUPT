@@ -1,0 +1,30 @@
+{
+		"name": "backend",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"scripts": {
+				"start:dev": "nodemon index.js",
+				"start": "node index.js"
+		},
+		"author": "Roby Zuñiga",
+		"license": "ISC",
+		"dependencies": {
+				"bcryptjs": "^2.4.3",
+				"cors": "^2.8.5",
+				"dotenv": "^8.2.0",
+				"express": "^4.17.1",
+				"express-fileupload": "^1.2.0",
+				"express-validator": "^6.6.1",
+				"google-auth-library": "^6.0.6",
+				"js": "^0.1.0",
+				"jsonwebtoken": "^8.5.1",
+				"mongoose": "^5.9.28",
+				"nodemon": "^2.0.6",
+				"pdf-parse": "^1.1.1",
+				"pdf.js-extract": "^0.1.4",
+				"pdfreader": "^1.2.7",
+				"socket.io": "^3.0.4",
+				"uuid": "^8.3.0"
+		}
+}

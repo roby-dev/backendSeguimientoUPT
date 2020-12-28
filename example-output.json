@@ -1,0 +1,9150 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.7",
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"Author": "Hayde Sisa",
+			"Creator": "Microsoft® Word 2016",
+			"CreationDate": "D:20200504172812-05'00'",
+			"ModDate": "D:20200504172812-05'00'",
+			"Producer": "Microsoft® Word 2016"
+		},
+		"metadata": {
+			"_metadata": {
+				"pdf:producer": "Microsoft® Word 2016",
+				"dc:creator": "Hayde Sisa",
+				"xmp:creatortool": "Microsoft® Word 2016",
+				"xmp:createdate": "2020-05-04T17:28:12-05:00",
+				"xmp:modifydate": "2020-05-04T17:28:12-05:00",
+				"xmpmm:documentid": "uuid:F15AFEFA-9276-4C62-814A-1265271A6911",
+				"xmpmm:instanceid": "uuid:F15AFEFA-9276-4C62-814A-1265271A6911"
+			}
+		},
+		"contentDispositionFilename": null
+	},
+	"pages": [
+		{
+			"pageInfo": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 85.104,
+					"y": 45.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.49504,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 140.66,
+					"y": 80.17999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 237.17,
+					"y": 91.70000000000005,
+					"str": "SÍLABO DE ",
+					"dir": "ltr",
+					"width": 46.772160000000014,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 283.99,
+					"y": 91.70000000000005,
+					"str": "BASE DE DATOS II",
+					"dir": "ltr",
+					"width": 74.20200000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 358.39,
+					"y": 91.70000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 85.104,
+					"y": 103.10000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 114.62,
+					"str": "1.",
+					"dir": "ltr",
+					"width": 6.849040000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 91.944,
+					"y": 114.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 103.1,
+					"y": 114.62,
+					"str": "INFORMACIÓN GENERAL",
+					"dir": "ltr",
+					"width": 100.95456000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 204.29,
+					"y": 114.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 125.65999999999997,
+					"str": "Facultad ",
+					"dir": "ltr",
+					"width": 30.366,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 142.1,
+					"y": 125.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 125.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 125.65999999999997,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 125.65999999999997,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.49,
+					"y": 125.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 125.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 125.65999999999997,
+					"str": "Facultad de Ingeniería",
+					"dir": "ltr",
+					"width": 73.449,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 293.47,
+					"y": 125.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 135.98000000000002,
+					"str": "Escuela",
+					"dir": "ltr",
+					"width": 26.28,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 138.02,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 135.98000000000002,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 135.98000000000002,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.49,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 135.98000000000002,
+					"str": "Ingeniería de Sistemas",
+					"dir": "ltr",
+					"width": 75.429,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 295.51,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 146.29999999999995,
+					"str": "Nombre de la asignatura           :",
+					"dir": "ltr",
+					"width": 105.33600000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.13,
+					"y": 146.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 219.17,
+					"y": 146.29999999999995,
+					"str": "Base de Datos II",
+					"dir": "ltr",
+					"width": 54.611999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 273.89,
+					"y": 146.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 156.62,
+					"str": "Código de la asignatura            :",
+					"dir": "ltr",
+					"width": 104.50800000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 216.41,
+					"y": 156.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 156.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 156.62,
+					"str": "SI",
+					"dir": "ltr",
+					"width": 6.968999999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 226.97,
+					"y": 156.62,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 229.49,
+					"y": 156.62,
+					"str": "771",
+					"dir": "ltr",
+					"width": 12.24,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 241.73,
+					"y": 156.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 166.94000000000005,
+					"str": "Semestre Académico              ",
+					"dir": "ltr",
+					"width": 98.74800000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 210.53,
+					"y": 166.94000000000005,
+					"str": "  ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 214.61,
+					"y": 166.94000000000005,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 216.77,
+					"y": 166.94000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 166.94000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 166.94000000000005,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 228.17,
+					"y": 166.94000000000005,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.33,
+					"y": 166.94000000000005,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 238.85,
+					"y": 166.94000000000005,
+					"str": "I",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 241.01,
+					"y": 166.94000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 177.26,
+					"str": "Ciclo",
+					"dir": "ltr",
+					"width": 16.442999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 128.18,
+					"y": 177.26,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 177.26,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 177.26,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 177.26,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.37,
+					"y": 177.26,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 219.41,
+					"y": 177.26,
+					"str": "VI",
+					"dir": "ltr",
+					"width": 6.968999999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 226.37,
+					"y": 177.26,
+					"str": "I",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 228.53,
+					"y": 177.26,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 187.58000000000004,
+					"str": "Horas",
+					"dir": "ltr",
+					"width": 19.665,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 131.42,
+					"y": 187.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 187.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 187.58000000000004,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 187.58000000000004,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.49,
+					"y": 187.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 187.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 187.58000000000004,
+					"str": "02 Horas de Teoría/04 de Practica",
+					"dir": "ltr",
+					"width": 112.761,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 332.83,
+					"y": 187.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 197.89999999999998,
+					"str": "Créditos",
+					"dir": "ltr",
+					"width": 27.441000000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 139.22,
+					"y": 197.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 197.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 197.89999999999998,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 197.89999999999998,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.49,
+					"y": 197.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 197.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 197.89999999999998,
+					"str": "04",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 228.29,
+					"y": 197.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 208.34000000000003,
+					"str": "Tipo de asignatura",
+					"dir": "ltr",
+					"width": 61.074,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 172.97,
+					"y": 208.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 208.34000000000003,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 208.34000000000003,
+					"str": ": (",
+					"dir": "ltr",
+					"width": 6.525,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 221.93,
+					"y": 208.34000000000003,
+					"str": "x",
+					"dir": "ltr",
+					"width": 3.6900000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 225.65,
+					"y": 208.34000000000003,
+					"str": ") Obligatorio",
+					"dir": "ltr",
+					"width": 40.31099999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 265.85,
+					"y": 208.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 288.79,
+					"y": 208.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 290.83,
+					"y": 208.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 324.19,
+					"y": 208.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.23,
+					"y": 208.34000000000003,
+					"str": "( ) Electivo",
+					"dir": "ltr",
+					"width": 34.911,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 361.15,
+					"y": 208.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 218.65999999999997,
+					"str": "Pre",
+					"dir": "ltr",
+					"width": 11.538,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 123.26,
+					"y": 218.65999999999997,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 125.78,
+					"y": 218.65999999999997,
+					"str": "Requisito ",
+					"dir": "ltr",
+					"width": 32.76,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 158.54,
+					"y": 218.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 218.65999999999997,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 218.65999999999997,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 219.41,
+					"y": 218.65999999999997,
+					"str": "Base de Datos I",
+					"dir": "ltr",
+					"width": 52.551,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 272.09,
+					"y": 218.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 228.98000000000002,
+					"str": "Docente",
+					"dir": "ltr",
+					"width": 27.395999999999994,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 139.22,
+					"y": 228.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 228.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 228.98000000000002,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 228.98000000000002,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.49,
+					"y": 228.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 228.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 228.98000000000002,
+					"str": "Mag. ",
+					"dir": "ltr",
+					"width": 18.387,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 238.37,
+					"y": 228.98000000000002,
+					"str": "Ing. ",
+					"dir": "ltr",
+					"width": 14.418,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 252.77,
+					"y": 228.98000000000002,
+					"str": "Patrick Cuadros Quiroga",
+					"dir": "ltr",
+					"width": 80.838,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 333.67,
+					"y": 228.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 239.29999999999995,
+					"str": "E",
+					"dir": "ltr",
+					"width": 4.923,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 116.66,
+					"y": 239.29999999999995,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 119.18,
+					"y": 239.29999999999995,
+					"str": "mail",
+					"dir": "ltr",
+					"width": 13.5,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 132.62,
+					"y": 239.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.14,
+					"y": 239.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 182.57,
+					"y": 239.29999999999995,
+					"str": "                ",
+					"dir": "ltr",
+					"width": 32.74799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.33,
+					"y": 239.29999999999995,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.49,
+					"y": 239.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 217.97,
+					"y": 239.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 220.01,
+					"y": 239.29999999999995,
+					"str": "patrick_jcq@hotmail",
+					"dir": "ltr",
+					"width": 66.50099999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 286.63,
+					"y": 239.29999999999995,
+					"str": ".com",
+					"dir": "ltr",
+					"width": 15.993,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 302.59,
+					"y": 239.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 251.09000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 262.49,
+					"str": "2.",
+					"dir": "ltr",
+					"width": 6.849040000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 91.944,
+					"y": 262.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 103.1,
+					"y": 262.49,
+					"str": "SUMILLA.",
+					"dir": "ltr",
+					"width": 38.614920000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 141.86,
+					"y": 262.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 273.53,
+					"str": "La asignatura de Base de Datos II es de naturaleza teórico",
+					"dir": "ltr",
+					"width": 192.6270000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 304.51,
+					"y": 273.53,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 307.03,
+					"y": 273.53,
+					"str": "práctico, pertenece al Área de Base de Datos e Inteligencia de ",
+					"dir": "ltr",
+					"width": 206.88300000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 283.85,
+					"str": "Negocios,  tiene  un  carácter  obligatorio  y  su  finalidad  es  desarrollar  en  el  estudiante  las  habilidades  y  destrezas  para  el ",
+					"dir": "ltr",
+					"width": 401.886,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 294.17,
+					"str": "análisis,  d",
+					"dir": "ltr",
+					"width": 35.622,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.38,
+					"y": 294.17,
+					"str": "iseño  e  implementación  de  soluciones  de  bases  de  datos  bajo  escenarios  modernos  de  aplicaciones ",
+					"dir": "ltr",
+					"width": 366.327,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 304.61,
+					"str": "computarizadas,  utilizando  diversos conceptos  y  técnicas  de  sistemas  de  base  de  datos  orientada  por  la  tecnología,  su ",
+					"dir": "ltr",
+					"width": 401.90400000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 314.93,
+					"str": "evolución  y  aplicaciones  actuales  en  varia",
+					"dir": "ltr",
+					"width": 150.38100000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 262.25,
+					"y": 314.93,
+					"str": "dos  contextos,  así  como  también  se  estudian  los  principales  modelos ",
+					"dir": "ltr",
+					"width": 251.55900000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 325.25,
+					"str": "semánticos  y  los  fundamentos  de  base  de  datos ",
+					"dir": "ltr",
+					"width": 167.16600000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 280.13,
+					"y": 325.25,
+					"str": "relacionales  y  no  relacionales",
+					"dir": "ltr",
+					"width": 99.981,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 380.23,
+					"y": 325.25,
+					"str": ",  constituyendo  una  perspectiva  amplia ",
+					"dir": "ltr",
+					"width": 133.70399999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 335.57,
+					"str": "sobre base de datos y sistemas de ",
+					"dir": "ltr",
+					"width": 116.01900000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 227.81,
+					"y": 335.57,
+					"str": "información",
+					"dir": "ltr",
+					"width": 38.295,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 266.09,
+					"y": 335.57,
+					"str": ". ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 270.17,
+					"y": 335.57,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 345.89,
+					"str": "Comprende:",
+					"dir": "ltr",
+					"width": 40.446,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 152.3,
+					"y": 345.89,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 356.21,
+					"str": "UNIDAD DIDÁCTI",
+					"dir": "ltr",
+					"width": 60.59699999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 172.37,
+					"y": 356.21,
+					"str": "CA 0",
+					"dir": "ltr",
+					"width": 16.820999999999998,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 189.17,
+					"y": 356.21,
+					"str": "1",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 193.25,
+					"y": 356.21,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 197.33,
+					"y": 356.21,
+					"str": "ARQUITECTURA Y GESTIÓN BASES DE DATOS RELACIONALES",
+					"dir": "ltr",
+					"width": 225.42300000000012,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 422.98,
+					"y": 356.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 366.53,
+					"str": "UNIDAD DIDÁCTICA 0",
+					"dir": "ltr",
+					"width": 77.39999999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 189.17,
+					"y": 366.53,
+					"str": "2",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 193.25,
+					"y": 366.53,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 197.33,
+					"y": 366.53,
+					"str": "ARQUITECTURA Y GESTIÓN BASES DE DATOS ",
+					"dir": "ltr",
+					"width": 169.02000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 366.43,
+					"y": 366.53,
+					"str": "NO ",
+					"dir": "ltr",
+					"width": 13.077,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 379.51,
+					"y": 366.53,
+					"str": "RELACIONALES",
+					"dir": "ltr",
+					"width": 56.511,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 436.18,
+					"y": 366.53,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 376.85,
+					"str": "UNIDAD DIDACTICA 0",
+					"dir": "ltr",
+					"width": 77.39999999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 189.17,
+					"y": 376.85,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 193.25,
+					"y": 376.85,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 197.33,
+					"y": 376.85,
+					"str": "ASPECTOS AVANZADOS DEL ACCESO A",
+					"dir": "ltr",
+					"width": 144.333,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 341.71,
+					"y": 376.85,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 343.87,
+					"y": 376.85,
+					"str": "DATOS",
+					"dir": "ltr",
+					"width": 25.533,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 369.31,
+					"y": 376.85,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 387.17,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 398.93,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 410.33,
+					"str": "3.",
+					"dir": "ltr",
+					"width": 6.849040000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 91.944,
+					"y": 410.33,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 103.1,
+					"y": 410.33,
+					"str": "COMPETENCIA DE LA ASIGNATURA.",
+					"dir": "ltr",
+					"width": 146.55144000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 249.89,
+					"y": 410.33,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 183.77,
+					"y": 421.51,
+					"str": "COMPETENCIA",
+					"dir": "ltr",
+					"width": 54.41399999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 238.25,
+					"y": 421.51,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 396.43,
+					"y": 421.51,
+					"str": "EVIDENCIA",
+					"dir": "ltr",
+					"width": 40.122,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 436.66,
+					"y": 421.51,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 432.31,
+					"str": "Conoce  la  arquitectura",
+					"dir": "ltr",
+					"width": 79.533,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 191.33,
+					"y": 432.31,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 196.01,
+					"y": 432.31,
+					"str": "y  aplica",
+					"dir": "ltr",
+					"width": 27.702,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 223.73,
+					"y": 432.31,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 228.41,
+					"y": 432.31,
+					"str": "buenas  prácticas  en  la ",
+					"dir": "ltr",
+					"width": 83.84400000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 442.63,
+					"str": "administración   e   implementación ",
+					"dir": "ltr",
+					"width": 119.57400000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.45,
+					"y": 442.63,
+					"str": "de",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 244.61,
+					"y": 442.63,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 251.69,
+					"y": 442.63,
+					"str": "base   de   datos, ",
+					"dir": "ltr",
+					"width": 60.57899999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 452.95,
+					"str": "logrando la participación y responsabilidad del alumno en la ",
+					"dir": "ltr",
+					"width": 200.37600000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 463.27,
+					"str": "solución  de  problemas  en  la  continuidad  del  servicio  del ",
+					"dir": "ltr",
+					"width": 200.35800000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 473.59,
+					"str": "negocio.  Valora ",
+					"dir": "ltr",
+					"width": 54.594,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 167.66,
+					"y": 473.59,
+					"str": "a",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 171.77,
+					"y": 473.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 175.13,
+					"y": 473.59,
+					"str": "la  información ",
+					"dir": "ltr",
+					"width": 49.293,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 225.77,
+					"y": 473.59,
+					"str": "como",
+					"dir": "ltr",
+					"width": 18.126,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 243.89,
+					"y": 473.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 247.25,
+					"y": 473.59,
+					"str": "uno  de  los  activos ",
+					"dir": "ltr",
+					"width": 64.998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 483.91,
+					"str": "más valiosos de la empresa.",
+					"dir": "ltr",
+					"width": 93.47399999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 205.37,
+					"y": 483.91,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 321.07,
+					"y": 432.31,
+					"str": "Presenta    Guías    de    Solución    de    Casos    utilizando ",
+					"dir": "ltr",
+					"width": 192.84300000000007,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 321.07,
+					"y": 442.63,
+					"str": "Estrategias de Base de Datos",
+					"dir": "ltr",
+					"width": 97.524,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 418.78,
+					"y": 442.63,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.95,
+					"y": 452.95,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.95,
+					"y": 464.23,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 103.1,
+					"y": 495.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 507.19,
+					"str": "4.",
+					"dir": "ltr",
+					"width": 6.849040000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 91.944,
+					"y": 507.19,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 103.1,
+					"y": 507.19,
+					"str": "ARTICULACIÓN CON COMPETENCIAS GENÉRICAS UPT",
+					"dir": "ltr",
+					"width": 220.66379999999992,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 324.07,
+					"y": 507.19,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 518.23,
+					"str": "Competencia Genérica UPT:",
+					"dir": "ltr",
+					"width": 99.24299999999998,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 211.13,
+					"y": 518.23,
+					"str": "  ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 215.21,
+					"y": 518.23,
+					"str": "Pensamiento c",
+					"dir": "ltr",
+					"width": 48.699,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 263.93,
+					"y": 518.23,
+					"str": "rítico",
+					"dir": "ltr",
+					"width": 16.083000000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 280.01,
+					"y": 518.23,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 172.25,
+					"y": 529.03,
+					"str": "Criterio",
+					"dir": "ltr",
+					"width": 26.226,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 198.53,
+					"y": 529.03,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 358.15,
+					"y": 529.03,
+					"str": "Nivel de Logro",
+					"dir": "ltr",
+					"width": 51.27300000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 409.42,
+					"y": 529.03,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 539.83,
+					"str": "Demuestra   capacidad   para   plantear ",
+					"dir": "ltr",
+					"width": 131.31,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 550.15,
+					"str": "soluciones a problemas.",
+					"dir": "ltr",
+					"width": 79.53299999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 191.33,
+					"y": 550.15,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 251.93,
+					"y": 539.83,
+					"str": "1",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 256.01,
+					"y": 539.83,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 267.77,
+					"y": 539.83,
+					"str": "Genera  al  menos  una  propuesta  de  solución  al  problema,  emite  juicios  y ",
+					"dir": "ltr",
+					"width": 246.15900000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 267.77,
+					"y": 550.15,
+					"str": "argumenta sus ideas.",
+					"dir": "ltr",
+					"width": 70.434,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.35,
+					"y": 550.15,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 561.91,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 85.104,
+					"y": 573.4300000000001,
+					"str": "5.",
+					"dir": "ltr",
+					"width": 6.849040000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 91.944,
+					"y": 573.4300000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 103.1,
+					"y": 573.4300000000001,
+					"str": "UNIDADES DIDÁCTICAS",
+					"dir": "ltr",
+					"width": 95.53632,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 198.77,
+					"y": 573.4300000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 587.02,
+					"str": "5.2 SEGUNDA",
+					"dir": "ltr",
+					"width": 49.122000000000014,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 160.82,
+					"y": 587.02,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 162.98,
+					"y": 587.02,
+					"str": "U",
+					"dir": "ltr",
+					"width": 5.327999999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 168.26,
+					"y": 587.02,
+					"str": "NIDAD DIDÁCTICA",
+					"dir": "ltr",
+					"width": 65.916,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 234.29,
+					"y": 587.02,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.635000000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 238.85,
+					"y": 587.02,
+					"str": "ARQUITECTURA Y GESTIÓN BASES DE DATOS ",
+					"dir": "ltr",
+					"width": 168.79500000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 407.74,
+					"y": 587.02,
+					"str": "RELACIONALES",
+					"dir": "ltr",
+					"width": 56.519999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 464.38,
+					"y": 587.02,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 597.34,
+					"str": "Total Horas: ",
+					"dir": "ltr",
+					"width": 45.21600000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 156.98,
+					"y": 597.34,
+					"str": "36",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 165.02,
+					"y": 597.34,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 610.78,
+					"str": "5.2.1 Resultados",
+					"dir": "ltr",
+					"width": 58.32,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 170.09,
+					"y": 610.78,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 172.13,
+					"y": 610.78,
+					"str": "de Aprendizaje",
+					"dir": "ltr",
+					"width": 52.578,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 224.69,
+					"y": 610.78,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.635000000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 229.13,
+					"y": 610.78,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 621.1,
+					"str": "RA1 ",
+					"dir": "ltr",
+					"width": 16.335,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 128.06,
+					"y": 621.1,
+					"str": "Analiza e identifica las responsabilidades que asume un DB",
+					"dir": "ltr",
+					"width": 195.59700000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 323.83,
+					"y": 621.1,
+					"str": "A",
+					"dir": "ltr",
+					"width": 4.923,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 328.75,
+					"y": 621.1,
+					"str": ". ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 332.95,
+					"y": 621.1,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 631.42,
+					"str": "RA",
+					"dir": "ltr",
+					"width": 10.155,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.94,
+					"y": 631.42,
+					"str": "2",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 126.02,
+					"y": 631.42,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 128.06,
+					"y": 631.42,
+					"str": "Conocer los conceptos y terminología ",
+					"dir": "ltr",
+					"width": 125.46900000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 253.61,
+					"y": 631.42,
+					"str": "de Arquitectura de un Sistema Gestor de Base de Datos",
+					"dir": "ltr",
+					"width": 184.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 437.86,
+					"y": 631.42,
+					"str": ". ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 442.06,
+					"y": 631.42,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 641.74,
+					"str": "RA3 ",
+					"dir": "ltr",
+					"width": 16.335,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.74,
+					"y": 641.74,
+					"str": "Conoce,  aplicar  y  diseña  estrategias  de  respaldo  y  en  que  situaciones  deberán  ser  aplicados  como  forma  de ",
+					"dir": "ltr",
+					"width": 383.868,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 652.06,
+					"str": "aseguramiento de la información. ",
+					"dir": "ltr",
+					"width": 111.078,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 223.01,
+					"y": 652.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 662.38,
+					"str": "RA4 Descubre",
+					"dir": "ltr",
+					"width": 47.889,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 159.62,
+					"y": 662.38,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.66,
+					"y": 662.38,
+					"str": "la importancia de la aplicación de la auditoria en las base",
+					"dir": "ltr",
+					"width": 187.11000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 348.91,
+					"y": 662.38,
+					"str": "s",
+					"dir": "ltr",
+					"width": 3.6900000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 352.63,
+					"y": 662.38,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 354.67,
+					"y": 662.38,
+					"str": "de datos para incrementar las tareas de ",
+					"dir": "ltr",
+					"width": 132.444,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 672.7,
+					"str": "se",
+					"dir": "ltr",
+					"width": 7.854000000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 119.54,
+					"y": 672.7,
+					"str": "guridad",
+					"dir": "ltr",
+					"width": 24.615,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 144.14,
+					"y": 672.7,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 683.5,
+					"str": "5.2.2 Contenidos",
+					"dir": "ltr",
+					"width": 59.14800000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 170.81,
+					"y": 683.5,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.62,
+					"y": 700.296,
+					"str": "Semana",
+					"dir": "ltr",
+					"width": 28.305,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 145.94,
+					"y": 700.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 700.296,
+					"str": "Contenidos ",
+					"dir": "ltr",
+					"width": 42.723,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 204.17,
+					"y": 700.296,
+					"str": "Conceptual",
+					"dir": "ltr",
+					"width": 40.211999999999996,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 244.37,
+					"y": 700.296,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 252.53,
+					"y": 700.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 700.296,
+					"str": "Contenidos",
+					"dir": "ltr",
+					"width": 40.671,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 379.27,
+					"y": 700.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 381.31,
+					"y": 700.296,
+					"str": "Procedimental",
+					"dir": "ltr",
+					"width": 50.877,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 432.22,
+					"y": 700.296,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 440.38,
+					"y": 700.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 85.104,
+					"y": 45.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.49504,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 129.74,
+					"y": 81.98000000000002,
+					"str": "1",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 133.82,
+					"y": 81.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 161.42,
+					"y": 81.98000000000002,
+					"str": "Fundamentos    las    bases    datos",
+					"dir": "ltr",
+					"width": 116.694,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 278.21,
+					"y": 81.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 286.39,
+					"y": 81.98000000000002,
+					"str": "relacionales.",
+					"dir": "ltr",
+					"width": 41.49,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 327.91,
+					"y": 81.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 94.34000000000003,
+					"str": "Propiedades  ACID ",
+					"dir": "ltr",
+					"width": 64.18799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 226.73,
+					"y": 94.34000000000003,
+					"str": "y ",
+					"dir": "ltr",
+					"width": 6.042,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 233.69,
+					"y": 94.34000000000003,
+					"str": "Sistema",
+					"dir": "ltr",
+					"width": 26.64,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 260.33,
+					"y": 94.34000000000003,
+					"str": "s",
+					"dir": "ltr",
+					"width": 3.6900000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 264.05,
+					"y": 94.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 267.17,
+					"y": 94.34000000000003,
+					"str": "Gestor",
+					"dir": "ltr",
+					"width": 22.275,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 289.51,
+					"y": 94.34000000000003,
+					"str": "es",
+					"dir": "ltr",
+					"width": 7.746,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 297.31,
+					"y": 94.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 300.43,
+					"y": 94.34000000000003,
+					"str": "de  base ",
+					"dir": "ltr",
+					"width": 29.511,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 106.70000000000005,
+					"str": "de    datos ",
+					"dir": "ltr",
+					"width": 37.196999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 205.61,
+					"y": 106.70000000000005,
+					"str": "relacionales    (",
+					"dir": "ltr",
+					"width": 50.913000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 256.61,
+					"y": 106.70000000000005,
+					"str": "SGBD",
+					"dir": "ltr",
+					"width": 20.915999999999997,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 277.49,
+					"y": 106.70000000000005,
+					"str": "R). ",
+					"dir": "ltr",
+					"width": 11.898,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 296.35,
+					"y": 106.70000000000005,
+					"str": "Roles    y ",
+					"dir": "ltr",
+					"width": 33.59700000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 119.05999999999995,
+					"str": "Funciones del ",
+					"dir": "ltr",
+					"width": 47.979,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 209.45,
+					"y": 119.05999999999995,
+					"str": "Administrador de Base de ",
+					"dir": "ltr",
+					"width": 86.85000000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 296.35,
+					"y": 119.05999999999995,
+					"str": "Datos.",
+					"dir": "ltr",
+					"width": 21.357,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.71,
+					"y": 119.05999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.75,
+					"y": 119.05999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 125.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.684,
+					"height": 3,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 81.98000000000002,
+					"str": "Conoce los conceptos que permiten definir una base ",
+					"dir": "ltr",
+					"width": 175.32000000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 92.29999999999995,
+					"str": "de datos relacional.",
+					"dir": "ltr",
+					"width": 63.93600000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 402.58,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 102.62,
+					"str": "Identifica  las  responsabilidades  y  capacidades  que ",
+					"dir": "ltr",
+					"width": 175.29300000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 112.94000000000005,
+					"str": "asumirán como administradores de base de datos.",
+					"dir": "ltr",
+					"width": 165.67200000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 504.34,
+					"y": 112.94000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.74,
+					"y": 136.10000000000002,
+					"str": "2",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 133.82,
+					"y": 136.10000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 161.42,
+					"y": 136.10000000000002,
+					"str": "Arquitectura  de  un  Gestor  de  Base  de  Datos",
+					"dir": "ltr",
+					"width": 166.17600000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 327.91,
+					"y": 136.10000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 146.41999999999996,
+					"str": "Relacional. ",
+					"dir": "ltr",
+					"width": 38.519999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 212.1620000000001,
+					"y": 146.41999999999996,
+					"str": "Componentes. ",
+					"dir": "ltr",
+					"width": 50.04899999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 274.42400000000026,
+					"y": 146.41999999999996,
+					"str": "Instalación ",
+					"dir": "ltr",
+					"width": 37.413000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 324.19,
+					"y": 146.41999999999996,
+					"str": "y ",
+					"dir": "ltr",
+					"width": 5.802,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 156.74,
+					"str": "configuración de una base de datos",
+					"dir": "ltr",
+					"width": 116.82900000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 278.45,
+					"y": 156.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 163.46000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.13904,
+					"height": 5.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 338.59,
+					"y": 136.10000000000002,
+					"str": "Identifica los componentes principales de un sistema ",
+					"dir": "ltr",
+					"width": 175.31100000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 146.41999999999996,
+					"str": "gestor   de   base   de   datos",
+					"dir": "ltr",
+					"width": 93.285,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 431.98,
+					"y": 146.41999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 437.62,
+					"y": 146.41999999999996,
+					"str": "relacional",
+					"dir": "ltr",
+					"width": 31.644000000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 469.3,
+					"y": 146.41999999999996,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 471.34,
+					"y": 146.41999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 476.98,
+					"y": 146.41999999999996,
+					"str": "Conoce   e ",
+					"dir": "ltr",
+					"width": 37.116,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 156.74,
+					"str": "identifica la arquitectura de",
+					"dir": "ltr",
+					"width": 88.173,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 426.82,
+					"y": 156.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 428.86,
+					"y": 156.74,
+					"str": "un SGBDR",
+					"dir": "ltr",
+					"width": 36.522,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 465.34,
+					"y": 156.74,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 467.38,
+					"y": 156.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 163.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.1491200000000001,
+					"height": 5.04,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.74,
+					"y": 173.65999999999997,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 133.82,
+					"y": 173.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 161.42,
+					"y": 173.65999999999997,
+					"str": "Introducción  a  los  índices, ",
+					"dir": "ltr",
+					"width": 93.078,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 256.49,
+					"y": 173.65999999999997,
+					"str": "Conceptos,  Tipos  de ",
+					"dir": "ltr",
+					"width": 73.404,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 183.98000000000002,
+					"str": "datos    e    índices,    Pilas,    Clusterizados    y    no ",
+					"dir": "ltr",
+					"width": 168.34499999999997,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 194.41999999999996,
+					"str": "Clusterizados. Compuestos y únicos.",
+					"dir": "ltr",
+					"width": 121.27499999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 282.89,
+					"y": 194.41999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 204.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 173.65999999999997,
+					"str": "C",
+					"dir": "ltr",
+					"width": 5.327999999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 343.87,
+					"y": 173.65999999999997,
+					"str": "onoce  el  concepto  de  un  índice  en  una  base  de ",
+					"dir": "ltr",
+					"width": 170.05500000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 183.98000000000002,
+					"str": "datos.    Comprende    como    los    índices    pueden ",
+					"dir": "ltr",
+					"width": 175.3380000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 194.41999999999996,
+					"str": "optimizar los procesos DML en una base de datos",
+					"dir": "ltr",
+					"width": 163.96200000000007,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 502.66,
+					"y": 194.41999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.02,
+					"y": 215.53999999999996,
+					"str": "4",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 133.1,
+					"y": 215.53999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 161.42,
+					"y": 215.53999999999996,
+					"str": "Seguridad de base de datos, ",
+					"dir": "ltr",
+					"width": 96.345,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 257.81,
+					"y": 215.53999999999996,
+					"str": "Roles y Privilegios ",
+					"dir": "ltr",
+					"width": 62.477999999999994,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 320.23,
+					"y": 215.53999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 225.86,
+					"str": "Esquemas    Roles",
+					"dir": "ltr",
+					"width": 61.75800000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 223.25,
+					"y": 225.86,
+					"str": ", ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 233.45,
+					"y": 225.86,
+					"str": "Privilegios    de    usuario    y ",
+					"dir": "ltr",
+					"width": 96.399,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 236.17999999999995,
+					"str": "sistemas",
+					"dir": "ltr",
+					"width": 29.124,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 190.61,
+					"y": 236.17999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 242.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.13904,
+					"height": 5.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 338.59,
+					"y": 215.53999999999996,
+					"str": "Conoce e identifica que roles y privilegios deben ser ",
+					"dir": "ltr",
+					"width": 175.27500000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 225.86,
+					"str": "asignados    a    los    usuarios    en    el    diseño    e ",
+					"dir": "ltr",
+					"width": 175.34700000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 236.17999999999995,
+					"str": "implementación de una base de datos.",
+					"dir": "ltr",
+					"width": 126.79200000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 465.46,
+					"y": 236.17999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.74,
+					"y": 253.13,
+					"str": "5",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 133.82,
+					"y": 253.13,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 161.42,
+					"y": 253.13,
+					"str": "Protección  de  datos  con ",
+					"dir": "ltr",
+					"width": 87.417,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 250.97,
+					"y": 253.13,
+					"str": "Auditoria. ",
+					"dir": "ltr",
+					"width": 33.345,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 286.39,
+					"y": 253.13,
+					"str": "Mecanismos ",
+					"dir": "ltr",
+					"width": 43.542,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 263.45000000000005,
+					"str": "utilizados para Auditoria",
+					"dir": "ltr",
+					"width": 79.281,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 240.77,
+					"y": 263.45000000000005,
+					"str": ". ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 245.09,
+					"y": 263.45000000000005,
+					"str": "Políticas para realización ",
+					"dir": "ltr",
+					"width": 84.75300000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 273.77,
+					"str": "de  Auditoria",
+					"dir": "ltr",
+					"width": 40.806000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 202.25,
+					"y": 273.77,
+					"str": ". ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 207.77,
+					"y": 273.77,
+					"str": "Auditoria  de  sesiones,  de  acciones ",
+					"dir": "ltr",
+					"width": 122.07600000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 284.09,
+					"str": "de base de datos y de objetos.",
+					"dir": "ltr",
+					"width": 100.43100000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 262.01,
+					"y": 284.09,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 290.81,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.13904,
+					"height": 5.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 338.59,
+					"y": 253.13,
+					"str": "Conoce,  diseña  y  aplica  que  métodos  de  auditoría ",
+					"dir": "ltr",
+					"width": 175.32000000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 263.45000000000005,
+					"str": "implementara  en  una  base  d",
+					"dir": "ltr",
+					"width": 96.435,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 435.1,
+					"y": 263.45000000000005,
+					"str": "e  datos  para  brindar  la ",
+					"dir": "ltr",
+					"width": 78.92100000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 273.77,
+					"str": "mayor seguridad a la información.",
+					"dir": "ltr",
+					"width": 111.07800000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 449.86,
+					"y": 273.77,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.74,
+					"y": 301.01,
+					"str": "6",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 133.82,
+					"y": 301.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 301.01,
+					"str": "Estrategias de Copias de Seguridad y ",
+					"dir": "ltr",
+					"width": 127.494,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 289.39,
+					"y": 301.01,
+					"str": "Modelos de ",
+					"dir": "ltr",
+					"width": 40.554,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 311.33,
+					"str": "Recuperación",
+					"dir": "ltr",
+					"width": 45.504,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 206.93,
+					"y": 311.33,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 321.65,
+					"str": "Copias    de    Seguridad. ",
+					"dir": "ltr",
+					"width": 86.13900000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 254.21,
+					"y": 321.65,
+					"str": "Tipos",
+					"dir": "ltr",
+					"width": 18.081,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 272.33,
+					"y": 321.65,
+					"str": ".    Modelos    de ",
+					"dir": "ltr",
+					"width": 57.591,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 331.97,
+					"str": "Recuperación. ",
+					"dir": "ltr",
+					"width": 49.562999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 214.73,
+					"y": 331.97,
+					"str": "Restauración",
+					"dir": "ltr",
+					"width": 43.586999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 258.29,
+					"y": 331.97,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 264.05,
+					"y": 331.97,
+					"str": "de   una   copia   de ",
+					"dir": "ltr",
+					"width": 65.835,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 342.41,
+					"str": "seguridad",
+					"dir": "ltr",
+					"width": 32.4,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 193.85,
+					"y": 342.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 200.57,
+					"y": 342.41,
+					"str": "de   base   de   datos",
+					"dir": "ltr",
+					"width": 70.722,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 271.37,
+					"y": 342.41,
+					"str": ".   Fases   de   la ",
+					"dir": "ltr",
+					"width": 58.535999999999994,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 352.73,
+					"str": "recuperación",
+					"dir": "ltr",
+					"width": 42.732,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 204.17,
+					"y": 352.73,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 301.01,
+					"str": "Conoce,  aplica  y  diseña  estrategias  que  permitan ",
+					"dir": "ltr",
+					"width": 175.32900000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 311.33,
+					"str": "minimizar los tiempos de recuperación en la base de ",
+					"dir": "ltr",
+					"width": 175.266,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 321.65,
+					"str": "datos",
+					"dir": "ltr",
+					"width": 17.973000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 356.59,
+					"y": 321.65,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 358.75,
+					"y": 321.65,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 331.97,
+					"str": "A",
+					"dir": "ltr",
+					"width": 4.923,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 343.51,
+					"y": 331.97,
+					"str": "plica ",
+					"dir": "ltr",
+					"width": 17.298000000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 361.63,
+					"y": 331.97,
+					"str": "t",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 363.67,
+					"y": 331.97,
+					"str": "écnicas",
+					"dir": "ltr",
+					"width": 25.065,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 388.75,
+					"y": 331.97,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 391.63,
+					"y": 331.97,
+					"str": "y  herramientas",
+					"dir": "ltr",
+					"width": 49.60799999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 441.34,
+					"y": 331.97,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 444.22,
+					"y": 331.97,
+					"str": "de  copias  seguridad",
+					"dir": "ltr",
+					"width": 67.779,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 512.02,
+					"y": 331.97,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 342.41,
+					"str": "y recuperación de base de datos",
+					"dir": "ltr",
+					"width": 106.956,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 445.78,
+					"y": 342.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 363.53,
+					"str": "Contenidos ",
+					"dir": "ltr",
+					"width": 42.723,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 154.46,
+					"y": 363.53,
+					"str": "Actitudinal",
+					"dir": "ltr",
+					"width": 38.160000000000004,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 192.65,
+					"y": 363.53,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 200.81,
+					"y": 363.53,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 203.21,
+					"y": 363.53,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 378.77,
+					"str": "•",
+					"dir": "ltr",
+					"width": 4.140000000000001,
+					"height": 9,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 115.82,
+					"y": 378.77,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.86,
+					"y": 378.77,
+					"str": "Valora el saber científico como conocimiento imprescindible en el desarrollo de su carrera. ",
+					"dir": "ltr",
+					"width": 297.7650000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 415.78,
+					"y": 378.77,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 389.69,
+					"str": "•",
+					"dir": "ltr",
+					"width": 4.140000000000001,
+					"height": 9,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 115.82,
+					"y": 389.69,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.86,
+					"y": 389.69,
+					"str": "Demuestra actitudes de puntualidad, veracidad, honestidad y responsabilidad como parte de su proceso formativo ",
+					"dir": "ltr",
+					"width": 375.7679999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 400.01,
+					"str": "profesional.",
+					"dir": "ltr",
+					"width": 38.132999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 149.9,
+					"y": 400.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 411.89,
+					"str": "5.2",
+					"dir": "ltr",
+					"width": 11.409000000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.14,
+					"y": 411.89,
+					"str": ".3 Estrategias Didácticas:",
+					"dir": "ltr",
+					"width": 99.33108000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 222.53,
+					"y": 411.89,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 121.46,
+					"y": 428.23,
+					"str": "ED3",
+					"dir": "ltr",
+					"width": 14.300999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 428.23,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.46,
+					"y": 438.55,
+					"str": "ED",
+					"dir": "ltr",
+					"width": 10.245,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 131.66,
+					"y": 438.55,
+					"str": "9",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 438.55,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.46,
+					"y": 448.87,
+					"str": "ED5",
+					"dir": "ltr",
+					"width": 14.300999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 448.87,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 428.23,
+					"str": "Sesiones de Laboratorio",
+					"dir": "ltr",
+					"width": 79.911,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.69,
+					"y": 428.23,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 438.55,
+					"str": "Elaboración de artículos",
+					"dir": "ltr",
+					"width": 79.128,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 235.85,
+					"y": 438.55,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 448.87,
+					"str": "Método de Proyectos",
+					"dir": "ltr",
+					"width": 69.705,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 226.37,
+					"y": 448.87,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 462.07,
+					"str": "5.2",
+					"dir": "ltr",
+					"width": 11.409000000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.14,
+					"y": 462.07,
+					"str": ".4",
+					"dir": "ltr",
+					"width": 6.830880000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 129.98,
+					"y": 462.07,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 132.26,
+					"y": 462.07,
+					"str": "Evaluación",
+					"dir": "ltr",
+					"width": 43.23636000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 175.61,
+					"y": 462.07,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 143.06,
+					"y": 477.67,
+					"str": "Tipo de evaluación",
+					"dir": "ltr",
+					"width": 66.50099999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 209.57,
+					"y": 477.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 260.09,
+					"y": 477.67,
+					"str": "Ponderación de las evaluaciones",
+					"dir": "ltr",
+					"width": 116.028,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 376.27,
+					"y": 477.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 405.7,
+					"y": 477.67,
+					"str": "Ponderación de la unidad 1",
+					"dir": "ltr",
+					"width": 96.05699999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 501.7,
+					"y": 477.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 113.42,
+					"y": 488.59,
+					"str": "Examen de unidad",
+					"dir": "ltr",
+					"width": 61.452,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 175.01,
+					"y": 488.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 488.59,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 488.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 488.59,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 488.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 446.38,
+					"y": 510.19,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 450.46,
+					"y": 510.19,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 454.54,
+					"y": 510.19,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 461.14,
+					"y": 510.19,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 499.39,
+					"str": "Informes de Laboratorio",
+					"dir": "ltr",
+					"width": 78.345,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 191.81,
+					"y": 499.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 499.39,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 499.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 499.39,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 499.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 510.19,
+					"str": "Trabajos ",
+					"dir": "ltr",
+					"width": 30.816000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 144.26,
+					"y": 510.19,
+					"str": "Encargados",
+					"dir": "ltr",
+					"width": 39.312,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 183.65,
+					"y": 510.19,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 510.19,
+					"str": "25",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 510.19,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 510.19,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 510.19,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 520.99,
+					"str": "Proyecto de Curso",
+					"dir": "ltr",
+					"width": 61.07399999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 174.53,
+					"y": 520.99,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 520.99,
+					"str": "25 %",
+					"dir": "ltr",
+					"width": 16.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 520.99,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 531.9100000000001,
+					"str": "Actitudinal",
+					"dir": "ltr",
+					"width": 34.019999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.5,
+					"y": 531.9100000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 531.9100000000001,
+					"str": "10 %",
+					"dir": "ltr",
+					"width": 16.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 531.9100000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 543.55,
+					"str": "5.2",
+					"dir": "ltr",
+					"width": 11.409000000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.14,
+					"y": 543.55,
+					"str": ".5 Bibliografía ",
+					"dir": "ltr",
+					"width": 56.542919999999995,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 179.69,
+					"y": 543.55,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 113.06,
+					"y": 560.47,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 120.86,
+					"y": 560.47,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 560.47,
+					"str": "MARTÍNEZ DE ILARDUIA ARCAUZ, JUAN CARLOS; “Administración de Oracle 11g”; Editorial Síntesis, ",
+					"dir": "ltr",
+					"width": 386.4978000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 127.34,
+					"y": 571.99,
+					"str": "S.A.; 2012 ",
+					"dir": "ltr",
+					"width": 40.39776000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 167.9,
+					"y": 571.99,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.06,
+					"y": 583.54,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 120.86,
+					"y": 583.54,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 583.54,
+					"str": "Darl Kuhn; “Pro Oracle Database 12c Administration”; Editorial Apress; 2013",
+					"dir": "ltr",
+					"width": 277.32624000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 404.98,
+					"y": 583.54,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.06,
+					"y": 592.1800000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.58688,
+					"height": 6.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 103.1,
+					"y": 600.8199999999999,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.58688,
+					"height": 6.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 612.34,
+					"str": "5.3",
+					"dir": "ltr",
+					"width": 10.224,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 121.94,
+					"y": 612.34,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.98,
+					"y": 612.34,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 126.02,
+					"y": 612.34,
+					"str": "TERCERA ",
+					"dir": "ltr",
+					"width": 37.683,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 163.7,
+					"y": 612.34,
+					"str": "U",
+					"dir": "ltr",
+					"width": 5.327999999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 169.13,
+					"y": 612.34,
+					"str": "NIDAD DIDÁCTICA",
+					"dir": "ltr",
+					"width": 66.024,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 235.13,
+					"y": 612.34,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.635000000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 239.69,
+					"y": 612.34,
+					"str": "ARQUITECTURA Y GESTIÓN BASES DE DATOS ",
+					"dir": "ltr",
+					"width": 168.786,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 408.58,
+					"y": 612.34,
+					"str": "NO ",
+					"dir": "ltr",
+					"width": 13.077,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 421.66,
+					"y": 612.34,
+					"str": "RELACIONALES",
+					"dir": "ltr",
+					"width": 56.736,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 478.42,
+					"y": 612.34,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 622.66,
+					"str": "Total Horas : ",
+					"dir": "ltr",
+					"width": 47.25900000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 159.02,
+					"y": 622.66,
+					"str": "  ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 163.1,
+					"y": 622.66,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 167.18,
+					"y": 622.66,
+					"str": "6",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 171.29,
+					"y": 622.66,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 633.46,
+					"str": "5.3.1",
+					"dir": "ltr",
+					"width": 16.344,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 128.06,
+					"y": 633.46,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 130.1,
+					"y": 633.46,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 132.14,
+					"y": 633.46,
+					"str": "Resultados de Aprendizaje",
+					"dir": "ltr",
+					"width": 94.554,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 226.73,
+					"y": 633.46,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.635000000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 231.17,
+					"y": 633.46,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 643.78,
+					"str": "RA1 ",
+					"dir": "ltr",
+					"width": 16.335,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.38,
+					"y": 643.78,
+					"str": "Analiza  e  identifica ",
+					"dir": "ltr",
+					"width": 66.321,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 197.09,
+					"y": 643.78,
+					"str": "los  conceptos  fundamentales  de  los  motores  de  búsqueda  de  datos  que  no  utilizan  algebra ",
+					"dir": "ltr",
+					"width": 316.7010000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 654.1,
+					"str": "relacional",
+					"dir": "ltr",
+					"width": 31.644000000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 143.42,
+					"y": 654.1,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 145.34,
+					"y": 654.1,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 664.42,
+					"str": "RA2 ",
+					"dir": "ltr",
+					"width": 16.335,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.26,
+					"y": 664.42,
+					"str": "Conocer  los  conceptos  y  terminología ",
+					"dir": "ltr",
+					"width": 130.221,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 260.81,
+					"y": 664.42,
+					"str": "de  Arquitectura  de ",
+					"dir": "ltr",
+					"width": 64.755,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.83,
+					"y": 664.42,
+					"str": "los  diferentes  tipos  de",
+					"dir": "ltr",
+					"width": 75.339,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 402.22,
+					"y": 664.42,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 405.46,
+					"y": 664.42,
+					"str": "Sistema",
+					"dir": "ltr",
+					"width": 26.64,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 432.1,
+					"y": 664.42,
+					"str": "s",
+					"dir": "ltr",
+					"width": 3.6900000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 435.82,
+					"y": 664.42,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 439.06,
+					"y": 664.42,
+					"str": "Gestor",
+					"dir": "ltr",
+					"width": 22.149,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 461.26,
+					"y": 664.42,
+					"str": "es",
+					"dir": "ltr",
+					"width": 7.746,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 469.06,
+					"y": 664.42,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 472.3,
+					"y": 664.42,
+					"str": "de  Base  de ",
+					"dir": "ltr",
+					"width": 41.733000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 674.74,
+					"str": "Datos",
+					"dir": "ltr",
+					"width": 19.197000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 130.94,
+					"y": 674.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 132.98,
+					"y": 674.74,
+					"str": "No Relacionales",
+					"dir": "ltr",
+					"width": 53.721,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 186.77,
+					"y": 674.74,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 188.93,
+					"y": 674.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 688.9,
+					"str": "5.3.2 Contenidos",
+					"dir": "ltr",
+					"width": 59.14800000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 170.81,
+					"y": 688.9,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.62,
+					"y": 703.296,
+					"str": "Semana",
+					"dir": "ltr",
+					"width": 28.305,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 145.94,
+					"y": 703.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 703.296,
+					"str": "Contenidos ",
+					"dir": "ltr",
+					"width": 42.723,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 204.17,
+					"y": 703.296,
+					"str": "Conceptual",
+					"dir": "ltr",
+					"width": 40.211999999999996,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 244.37,
+					"y": 703.296,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 252.53,
+					"y": 703.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 703.296,
+					"str": "Contenidos",
+					"dir": "ltr",
+					"width": 40.671,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 379.27,
+					"y": 703.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 381.31,
+					"y": 703.296,
+					"str": "Procedimental",
+					"dir": "ltr",
+					"width": 50.877,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 432.22,
+					"y": 703.296,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 440.38,
+					"y": 703.296,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 85.104,
+					"y": 45.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.49504,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 129.02,
+					"y": 81.98000000000002,
+					"str": "7",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 133.1,
+					"y": 81.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 81.98000000000002,
+					"str": "Fundamentos de base de datos no ",
+					"dir": "ltr",
+					"width": 123.21900000000001,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 284.95,
+					"y": 81.98000000000002,
+					"str": "relacionales",
+					"dir": "ltr",
+					"width": 42.984,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 327.91,
+					"y": 81.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.25,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 92.29999999999995,
+					"str": "(",
+					"dir": "ltr",
+					"width": 2.9970000000000003,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 164.42,
+					"y": 92.29999999999995,
+					"str": "NoSQL",
+					"dir": "ltr",
+					"width": 28.062,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 192.53,
+					"y": 92.29999999999995,
+					"str": ")",
+					"dir": "ltr",
+					"width": 2.9970000000000003,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 195.53,
+					"y": 92.29999999999995,
+					"str": ",",
+					"dir": "ltr",
+					"width": 2.25,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 197.81,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.25,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 200.09,
+					"y": 92.29999999999995,
+					"str": "tipos y m",
+					"dir": "ltr",
+					"width": 33.480000000000004,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 233.57,
+					"y": 92.29999999999995,
+					"str": "otores",
+					"dir": "ltr",
+					"width": 21.968999999999998,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 255.53,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.25,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 257.81,
+					"y": 92.29999999999995,
+					"str": "de búsqueda",
+					"dir": "ltr",
+					"width": 44.757000000000005,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 302.47,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.25,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 102.86000000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.0340000000000003,
+					"height": 9,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 338.59,
+					"y": 81.98000000000002,
+					"str": "Conoce los conceptos que permiten definir una base ",
+					"dir": "ltr",
+					"width": 175.32000000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 92.29999999999995,
+					"str": "de datos N",
+					"dir": "ltr",
+					"width": 35.577,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 374.23,
+					"y": 92.29999999999995,
+					"str": "o",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 378.31,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.51712,
+					"height": 11.04,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 380.83,
+					"y": 92.29999999999995,
+					"str": "relacional.",
+					"dir": "ltr",
+					"width": 33.696,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 414.58,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 102.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.02,
+					"y": 115.22000000000003,
+					"str": "8",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 133.1,
+					"y": 115.22000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 115.22000000000003,
+					"str": "Base   de   Datos   Clave",
+					"dir": "ltr",
+					"width": 86.625,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 248.09,
+					"y": 115.22000000000003,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.9970000000000003,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 251.09,
+					"y": 115.22000000000003,
+					"str": "Valor.   Arquitectura. ",
+					"dir": "ltr",
+					"width": 78.993,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 125.65999999999997,
+					"str": "Instalación y creación de una base de datos.",
+					"dir": "ltr",
+					"width": 157.41000000000003,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 318.91,
+					"y": 125.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.0340000000000003,
+					"height": 9,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 161.42,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 115.22000000000003,
+					"str": "Conoce     e     Identifica     la ",
+					"dir": "ltr",
+					"width": 95.00400000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 441.1,
+					"y": 115.22000000000003,
+					"str": "arquitectura     y     los ",
+					"dir": "ltr",
+					"width": 72.891,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 125.53999999999996,
+					"str": "componentes  principales  de  un  sistema  gestor  de ",
+					"dir": "ltr",
+					"width": 175.31100000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 135.98000000000002,
+					"str": "base de dato",
+					"dir": "ltr",
+					"width": 42.623999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 381.19,
+					"y": 135.98000000000002,
+					"str": "s basado en clave",
+					"dir": "ltr",
+					"width": 59.507999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 440.74,
+					"y": 135.98000000000002,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 443.26,
+					"y": 135.98000000000002,
+					"str": "valor.",
+					"dir": "ltr",
+					"width": 18.108000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 461.38,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.02,
+					"y": 148.58000000000004,
+					"str": "9",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 133.1,
+					"y": 148.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 148.58000000000004,
+					"str": "Base    de    Datos    basado    en    documentos. ",
+					"dir": "ltr",
+					"width": 168.57900000000006,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 159.01999999999998,
+					"str": "Arquitectura.  Instalación  y  creación  de  una ",
+					"dir": "ltr",
+					"width": 168.55200000000002,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 169.34000000000003,
+					"str": "base de datos.",
+					"dir": "ltr",
+					"width": 50.346000000000004,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 211.73,
+					"y": 169.34000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.0340000000000003,
+					"height": 9,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 161.42,
+					"y": 179.65999999999997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 148.58000000000004,
+					"str": "Conoce     e     Identifica     la     arquitectura     y     los ",
+					"dir": "ltr",
+					"width": 175.29300000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 158.89999999999998,
+					"str": "componentes",
+					"dir": "ltr",
+					"width": 44.253,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 382.87,
+					"y": 158.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 386.71,
+					"y": 158.89999999999998,
+					"str": "principales  de  un  sistema  gestor  de ",
+					"dir": "ltr",
+					"width": 127.22400000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 169.22000000000003,
+					"str": "base de dato",
+					"dir": "ltr",
+					"width": 42.623999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 381.19,
+					"y": 169.22000000000003,
+					"str": "s basado en documentos.",
+					"dir": "ltr",
+					"width": 84.555,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 465.82,
+					"y": 169.22000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 126.98,
+					"y": 190.46000000000004,
+					"str": "10",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.14,
+					"y": 190.46000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 190.46000000000004,
+					"str": "Base   de   datos   columnares.   Arquitectura. ",
+					"dir": "ltr",
+					"width": 168.58799999999997,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 200.89999999999998,
+					"str": "Instalación y creación de una base de datos.",
+					"dir": "ltr",
+					"width": 157.41000000000003,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 318.91,
+					"y": 200.89999999999998,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.0340000000000003,
+					"height": 9,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 161.42,
+					"y": 211.22000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 190.46000000000004,
+					"str": "Conoce     e     Identifica     la     arquitectura     y     los ",
+					"dir": "ltr",
+					"width": 175.29300000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 200.77999999999997,
+					"str": "componentes  principales  de  un  sistema  gestor  de ",
+					"dir": "ltr",
+					"width": 175.31100000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 211.10000000000002,
+					"str": "base de dato",
+					"dir": "ltr",
+					"width": 42.623999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 381.19,
+					"y": 211.10000000000002,
+					"str": "s columnar.",
+					"dir": "ltr",
+					"width": 38.142,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 419.5,
+					"y": 211.10000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 126.98,
+					"y": 223.82000000000005,
+					"str": "11",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.14,
+					"y": 223.82000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 223.82000000000005,
+					"str": "Base    de    datos    de    grafos.    Arquitectura. ",
+					"dir": "ltr",
+					"width": 168.588,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 161.42,
+					"y": 234.14,
+					"str": "Instalación y creación de una base de datos.",
+					"dir": "ltr",
+					"width": 157.41000000000003,
+					"height": 9,
+					"fontName": "Times"
+				},
+				{
+					"x": 318.91,
+					"y": 234.14,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.0340000000000003,
+					"height": 9,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 161.42,
+					"y": 244.58000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 223.82000000000005,
+					"str": "Conoce     e     Identifica     la     arquitectura     y     los ",
+					"dir": "ltr",
+					"width": 175.29300000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 234.14,
+					"str": "componentes  principales  de  un  sistema  gestor  de ",
+					"dir": "ltr",
+					"width": 175.31100000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 244.46000000000004,
+					"str": "base de dato",
+					"dir": "ltr",
+					"width": 42.623999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 381.19,
+					"y": 244.46000000000004,
+					"str": "s basado en grafos.",
+					"dir": "ltr",
+					"width": 64.773,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 446.14,
+					"y": 244.46000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 257.45000000000005,
+					"str": "Contenidos ",
+					"dir": "ltr",
+					"width": 42.723,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 154.46,
+					"y": 257.45000000000005,
+					"str": "Actitudinal",
+					"dir": "ltr",
+					"width": 38.160000000000004,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 192.65,
+					"y": 257.45000000000005,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 200.81,
+					"y": 257.45000000000005,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 203.21,
+					"y": 257.45000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 275.33000000000004,
+					"str": "Trabaja en equipo y se comunica efectivamente con sus compañeros de clase, integrándose con sus compañeros de ",
+					"dir": "ltr",
+					"width": 385.542,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 285.65,
+					"str": "grupo; y expresa de manera adecuada la exposición del proyecto",
+					"dir": "ltr",
+					"width": 213.66000000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 325.51,
+					"y": 285.65,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 306.17,
+					"str": "5.2",
+					"dir": "ltr",
+					"width": 11.409000000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.14,
+					"y": 306.17,
+					"str": ".3 Estrategias",
+					"dir": "ltr",
+					"width": 53.30592,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 176.57,
+					"y": 306.17,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 178.85,
+					"y": 306.17,
+					"str": "Didácticas:",
+					"dir": "ltr",
+					"width": 43.704480000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 222.53,
+					"y": 306.17,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 121.46,
+					"y": 327.41,
+					"str": "ED3",
+					"dir": "ltr",
+					"width": 14.300999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 327.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.46,
+					"y": 337.73,
+					"str": "ED",
+					"dir": "ltr",
+					"width": 10.245,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 131.66,
+					"y": 337.73,
+					"str": "9",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 337.73,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.46,
+					"y": 348.05,
+					"str": "ED5",
+					"dir": "ltr",
+					"width": 14.300999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 348.05,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 327.41,
+					"str": "Sesiones de Laboratorio",
+					"dir": "ltr",
+					"width": 79.911,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.69,
+					"y": 327.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 337.73,
+					"str": "Elaboración de Artículos",
+					"dir": "ltr",
+					"width": 79.974,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.69,
+					"y": 337.73,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 348.05,
+					"str": "Método de Proyectos",
+					"dir": "ltr",
+					"width": 69.705,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 226.37,
+					"y": 348.05,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 361.25,
+					"str": "5.2",
+					"dir": "ltr",
+					"width": 11.409000000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.14,
+					"y": 361.25,
+					"str": ".4",
+					"dir": "ltr",
+					"width": 6.830880000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 129.98,
+					"y": 361.25,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 132.26,
+					"y": 361.25,
+					"str": "Evaluación",
+					"dir": "ltr",
+					"width": 43.23636000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 175.61,
+					"y": 361.25,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 143.06,
+					"y": 376.49,
+					"str": "Tipo de evaluación",
+					"dir": "ltr",
+					"width": 66.50099999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 209.57,
+					"y": 376.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 260.09,
+					"y": 376.49,
+					"str": "Ponderación de las evaluaciones",
+					"dir": "ltr",
+					"width": 116.028,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 376.27,
+					"y": 376.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 405.7,
+					"y": 376.49,
+					"str": "Ponderación de la unidad 1",
+					"dir": "ltr",
+					"width": 96.05699999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 501.7,
+					"y": 376.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 113.42,
+					"y": 387.29,
+					"str": "Examen de unidad",
+					"dir": "ltr",
+					"width": 61.452,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 175.01,
+					"y": 387.29,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 387.29,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 387.29,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 387.29,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 387.29,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 446.38,
+					"y": 409.01,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 450.46,
+					"y": 409.01,
+					"str": "4",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 454.54,
+					"y": 409.01,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 461.14,
+					"y": 409.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 398.21,
+					"str": "Informes de Laboratorio",
+					"dir": "ltr",
+					"width": 78.345,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 191.81,
+					"y": 398.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 398.21,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 398.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 398.21,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 398.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 409.01,
+					"str": "Trabajos Encargados",
+					"dir": "ltr",
+					"width": 70.155,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 183.65,
+					"y": 409.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 409.01,
+					"str": "25",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 409.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 409.01,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 409.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 419.83,
+					"str": "Proyecto de Curso",
+					"dir": "ltr",
+					"width": 61.07399999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 174.53,
+					"y": 419.83,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 419.83,
+					"str": "25 %",
+					"dir": "ltr",
+					"width": 16.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 419.83,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 430.63,
+					"str": "Actitudinal",
+					"dir": "ltr",
+					"width": 34.019999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.5,
+					"y": 430.63,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 430.63,
+					"str": "10 %",
+					"dir": "ltr",
+					"width": 16.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 430.63,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 442.39,
+					"str": "5.2",
+					"dir": "ltr",
+					"width": 11.409000000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.14,
+					"y": 442.39,
+					"str": ".5 Bibliografía ",
+					"dir": "ltr",
+					"width": 56.542919999999995,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 179.69,
+					"y": 442.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 109.34,
+					"y": 458.83,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 117.14,
+					"y": 458.83,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 458.83,
+					"str": "Kristina Chodorow, “MongoDB: The Definitive Guide”, O’Reilly Media, Inc.",
+					"dir": "ltr",
+					"width": 267.3961200000001,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 394.99,
+					"y": 458.83,
+					"str": ", 2019",
+					"dir": "ltr",
+					"width": 22.763520000000007,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 417.82,
+					"y": 458.83,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 109.34,
+					"y": 470.35,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 117.14,
+					"y": 470.35,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 470.35,
+					"str": "Eelco Plugge, Peter Membrey, Tim Hawkins, “The Definitive Guide to MongoDB”, Apress",
+					"dir": "ltr",
+					"width": 322.32552000000015,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 449.98,
+					"y": 470.35,
+					"str": ", 2013",
+					"dir": "ltr",
+					"width": 22.763520000000007,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 472.9,
+					"y": 470.35,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 109.34,
+					"y": 481.87,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 117.14,
+					"y": 481.87,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 481.87,
+					"str": "Tiware, S.. Professional NoSQL. 1st Edition. ",
+					"dir": "ltr",
+					"width": 162.95556000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 290.59,
+					"y": 481.87,
+					"str": "Wrox",
+					"dir": "ltr",
+					"width": 19.073400000000007,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.67,
+					"y": 481.87,
+					"str": ", 2011",
+					"dir": "ltr",
+					"width": 22.763520000000007,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 332.59,
+					"y": 481.87,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 95.064,
+					"y": 493.27,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 103.1,
+					"y": 505.27,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 518.8299999999999,
+					"str": "5.1",
+					"dir": "ltr",
+					"width": 10.224,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 121.94,
+					"y": 518.8299999999999,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 123.98,
+					"y": 518.8299999999999,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 126.02,
+					"y": 518.8299999999999,
+					"str": "PRIMERA ",
+					"dir": "ltr",
+					"width": 36.00899999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 162.14,
+					"y": 518.8299999999999,
+					"str": "U",
+					"dir": "ltr",
+					"width": 5.327999999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 167.42,
+					"y": 518.8299999999999,
+					"str": "NIDAD DIDÁCTICA",
+					"dir": "ltr",
+					"width": 66.024,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 233.57,
+					"y": 518.8299999999999,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.635000000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 238.13,
+					"y": 518.8299999999999,
+					"str": "ASPECTOS AVANZADOS DEL ACCESO A",
+					"dir": "ltr",
+					"width": 144.216,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 382.39,
+					"y": 518.8299999999999,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 384.43,
+					"y": 518.8299999999999,
+					"str": "DATOS",
+					"dir": "ltr",
+					"width": 25.415999999999997,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 409.9,
+					"y": 518.8299999999999,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 529.15,
+					"str": "Total Horas : ",
+					"dir": "ltr",
+					"width": 47.25900000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 159.02,
+					"y": 529.15,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 161.06,
+					"y": 529.15,
+					"str": "36",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 169.25,
+					"y": 529.15,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 542.59,
+					"str": "5.1.1",
+					"dir": "ltr",
+					"width": 16.344,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 128.06,
+					"y": 542.59,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 130.1,
+					"y": 542.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 132.14,
+					"y": 542.59,
+					"str": "Resultados de Aprendizaje",
+					"dir": "ltr",
+					"width": 94.554,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 226.73,
+					"y": 542.59,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 4.635000000000001,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 231.17,
+					"y": 542.59,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 111.74,
+					"y": 552.91,
+					"str": "RA1 Analiza las diferentes formas de extraer",
+					"dir": "ltr",
+					"width": 146.39399999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 258.29,
+					"y": 552.91,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 260.33,
+					"y": 552.91,
+					"str": "y manejar",
+					"dir": "ltr",
+					"width": 32.337,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 292.75,
+					"y": 552.91,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 294.79,
+					"y": 552.91,
+					"str": "la ",
+					"dir": "ltr",
+					"width": 7.83,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 302.59,
+					"y": 552.91,
+					"str": "datos e ",
+					"dir": "ltr",
+					"width": 26.163000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 328.75,
+					"y": 552.91,
+					"str": "información",
+					"dir": "ltr",
+					"width": 38.286,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 367.03,
+					"y": 552.91,
+					"str": ". ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 371.11,
+					"y": 552.91,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 563.23,
+					"str": "RA2 Presenta soluciones de presentación de datos",
+					"dir": "ltr",
+					"width": 167.55300000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 279.41,
+					"y": 563.23,
+					"str": ", ",
+					"dir": "ltr",
+					"width": 4.08,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 283.49,
+					"y": 563.23,
+					"str": "comprendiendo y aplicando",
+					"dir": "ltr",
+					"width": 90.36,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 373.87,
+					"y": 563.23,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 375.91,
+					"y": 563.23,
+					"str": "el manejo de transacciones e índices.",
+					"dir": "ltr",
+					"width": 123.552,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 499.54,
+					"y": 563.23,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 578.47,
+					"str": "5.1.2",
+					"dir": "ltr",
+					"width": 16.344,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 128.06,
+					"y": 578.47,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 130.1,
+					"y": 578.47,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 132.14,
+					"y": 578.47,
+					"str": "Contenidos",
+					"dir": "ltr",
+					"width": 40.788,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 172.85,
+					"y": 578.47,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.62,
+					"y": 592.06,
+					"str": "Semana",
+					"dir": "ltr",
+					"width": 28.305,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 145.94,
+					"y": 592.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 592.06,
+					"str": "Contenidos ",
+					"dir": "ltr",
+					"width": 42.723,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 204.17,
+					"y": 592.06,
+					"str": "Conceptual",
+					"dir": "ltr",
+					"width": 40.211999999999996,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 244.37,
+					"y": 592.06,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 252.53,
+					"y": 592.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 592.06,
+					"str": "Contenidos",
+					"dir": "ltr",
+					"width": 40.671,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 379.27,
+					"y": 592.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 381.31,
+					"y": 592.06,
+					"str": "Procedimental",
+					"dir": "ltr",
+					"width": 50.877,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 432.22,
+					"y": 592.06,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 440.38,
+					"y": 592.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 127.7,
+					"y": 606.7,
+					"str": "1",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 131.78,
+					"y": 606.7,
+					"str": "2",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 606.7,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 129.62,
+					"y": 617.02,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 606.7,
+					"str": "Utilización    de    expresiones    de   tabla: ",
+					"dir": "ltr",
+					"width": 138.86100000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 305.59,
+					"y": 606.7,
+					"str": "Vistas, ",
+					"dir": "ltr",
+					"width": 24.327,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 619.06,
+					"str": "funciones tabla, tablas derivadas y expresiones de ",
+					"dir": "ltr",
+					"width": 168.33599999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 631.54,
+					"str": "tabla común y tablas temporales.",
+					"dir": "ltr",
+					"width": 108.21600000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 269.81,
+					"y": 631.54,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 606.7,
+					"str": "Conoce  los  conceptos  de  expresiones  de  tabla  y ",
+					"dir": "ltr",
+					"width": 175.284,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 617.02,
+					"str": "entiende   bajo   qué   circunstancias   o   escenarios ",
+					"dir": "ltr",
+					"width": 175.293,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 627.34,
+					"str": "pueden ser aplicados.",
+					"dir": "ltr",
+					"width": 72.108,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 410.86,
+					"y": 627.34,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 127.7,
+					"y": 644.38,
+					"str": "13",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 644.38,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 118.7,
+					"y": 654.7,
+					"str": "14",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 126.86,
+					"y": 654.7,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 644.38,
+					"str": "Uso    de     operadores    de    conjuntos: ",
+					"dir": "ltr",
+					"width": 139.14000000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 307.75,
+					"y": 644.38,
+					"str": "unión, ",
+					"dir": "ltr",
+					"width": 22.203,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 654.7,
+					"str": "intersección, diferencia, otros",
+					"dir": "ltr",
+					"width": 96.03900000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 257.45,
+					"y": 654.7,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 665.02,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 644.38,
+					"str": "Conoce  los  operadores  de  conjuntos  de  datos  y ",
+					"dir": "ltr",
+					"width": 175.32000000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 654.7,
+					"str": "comprende  bajo  qué  circunstancias  o  escenarios ",
+					"dir": "ltr",
+					"width": 175.27500000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 665.02,
+					"str": "pueden ser aplicados.",
+					"dir": "ltr",
+					"width": 72.108,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 410.86,
+					"y": 665.02,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 677.74,
+					"str": "Utilización  de  funciones  de  agregación,  ranking  y ",
+					"dir": "ltr",
+					"width": 168.32700000000006,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 688.06,
+					"str": "contrapeso",
+					"dir": "ltr",
+					"width": 36.486000000000004,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 197.93,
+					"y": 688.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 698.376,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 677.74,
+					"str": "Conoce ",
+					"dir": "ltr",
+					"width": 27.396,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 368.35,
+					"y": 677.74,
+					"str": "y  aplica  funciones ",
+					"dir": "ltr",
+					"width": 65.709,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 436.54,
+					"y": 677.74,
+					"str": "agregación,  ranking  y ",
+					"dir": "ltr",
+					"width": 77.45400000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 688.06,
+					"str": "contrapeso en el tratamiento de consultas de datos.",
+					"dir": "ltr",
+					"width": 169.29000000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 508.06,
+					"y": 688.06,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 85.104,
+					"y": 45.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.49504,
+					"height": 11.04,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 127.7,
+					"y": 81.98000000000002,
+					"str": "14",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 81.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 81.98000000000002,
+					"str": "Manejo  de  funciones  de  c",
+					"dir": "ltr",
+					"width": 93.52800000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 255.05,
+					"y": 81.98000000000002,
+					"str": "onjuntos  de  pivote  y ",
+					"dir": "ltr",
+					"width": 74.83500000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 92.29999999999995,
+					"str": "agrupación",
+					"dir": "ltr",
+					"width": 36.513,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 197.93,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 81.98000000000002,
+					"str": "Conoce ",
+					"dir": "ltr",
+					"width": 27.396,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 366.31,
+					"y": 81.98000000000002,
+					"str": "y aplica funciones pivote y agrupación en el ",
+					"dir": "ltr",
+					"width": 147.58200000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 92.29999999999995,
+					"str": "tratamiento de consultas de datos.",
+					"dir": "ltr",
+					"width": 112.76100000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 451.42,
+					"y": 92.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 127.7,
+					"y": 115.22000000000003,
+					"str": "15",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 115.22000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 115.22000000000003,
+					"str": "Acceso a datos no ",
+					"dir": "ltr",
+					"width": 63.800999999999995,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 225.65,
+					"y": 115.22000000000003,
+					"str": "estructurados en internet, Web ",
+					"dir": "ltr",
+					"width": 104.22000000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 125.53999999999996,
+					"str": "Scraping, extracción de datos de ficheros web, de ",
+					"dir": "ltr",
+					"width": 168.372,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 135.98000000000002,
+					"str": "páginas web",
+					"dir": "ltr",
+					"width": 41.318999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 202.85,
+					"y": 135.98000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 146.29999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 115.22000000000003,
+					"str": "Conoce ",
+					"dir": "ltr",
+					"width": 27.396,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 366.07,
+					"y": 115.22000000000003,
+					"str": "y aplica funciones de extracción de datos en ",
+					"dir": "ltr",
+					"width": 147.84300000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 125.53999999999996,
+					"str": "ficheros y paginas web.",
+					"dir": "ltr",
+					"width": 77.01299999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 415.78,
+					"y": 125.53999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 127.7,
+					"y": 157.10000000000002,
+					"str": "16",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 157.10000000000002,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 157.10000000000002,
+					"str": "Acceso a datos no estructurados en internet, Web ",
+					"dir": "ltr",
+					"width": 168.36300000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 167.41999999999996,
+					"str": "Scraping  de  datos  en  redes ",
+					"dir": "ltr",
+					"width": 96.55199999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 259.13,
+					"y": 167.41999999999996,
+					"str": "sociales  a  través  de ",
+					"dir": "ltr",
+					"width": 70.73100000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 177.74,
+					"str": "da APIs",
+					"dir": "ltr",
+					"width": 25.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 187.25,
+					"y": 177.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 188.05999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 157.10000000000002,
+					"str": "Conoce ",
+					"dir": "ltr",
+					"width": 27.396,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 367.51,
+					"y": 157.10000000000002,
+					"str": "y  aplica  funciones  de  extracción  de  datos ",
+					"dir": "ltr",
+					"width": 146.38500000000005,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 167.41999999999996,
+					"str": "mediante APIs de redes sociales.",
+					"dir": "ltr",
+					"width": 109.50300000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 448.18,
+					"y": 167.41999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 126.98,
+					"y": 198.86,
+					"str": "17",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.14,
+					"y": 198.86,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 198.86,
+					"str": "Acceso a datos no estructurados en internet, Web ",
+					"dir": "ltr",
+					"width": 168.36300000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 209.17999999999995,
+					"str": "Scraping  de  datos  dinámicos  o  que  requieren ",
+					"dir": "ltr",
+					"width": 168.38100000000003,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 219.5,
+					"str": "interacción.",
+					"dir": "ltr",
+					"width": 37.782,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 199.25,
+					"y": 219.5,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 161.42,
+					"y": 229.82000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 198.86,
+					"str": "Conoce ",
+					"dir": "ltr",
+					"width": 27.396,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 367.51,
+					"y": 198.86,
+					"str": "y  aplica ",
+					"dir": "ltr",
+					"width": 28.674000000000007,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 397.75,
+					"y": 198.86,
+					"str": "funciones  de  extracción  de  datos ",
+					"dir": "ltr",
+					"width": 116.19900000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 338.59,
+					"y": 209.17999999999995,
+					"str": "dinámicos en internet.",
+					"dir": "ltr",
+					"width": 72.11699999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 410.86,
+					"y": 209.17999999999995,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 240.74,
+					"str": "Contenidos ",
+					"dir": "ltr",
+					"width": 42.723,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 154.46,
+					"y": 240.74,
+					"str": "Actitudinal",
+					"dir": "ltr",
+					"width": 38.160000000000004,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 192.65,
+					"y": 240.74,
+					"str": "es",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 200.81,
+					"y": 240.74,
+					"str": ":",
+					"dir": "ltr",
+					"width": 2.4570000000000003,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 203.21,
+					"y": 240.74,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 252.28999999999996,
+					"str": "•",
+					"dir": "ltr",
+					"width": 4.140000000000001,
+					"height": 9,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 115.82,
+					"y": 252.28999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.86,
+					"y": 252.28999999999996,
+					"str": "Manifiesta interés en las actividades planificadas mediante la participación permanente y autónoma. ",
+					"dir": "ltr",
+					"width": 329.3010000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 447.58,
+					"y": 252.28999999999996,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 263.33000000000004,
+					"str": "•",
+					"dir": "ltr",
+					"width": 4.140000000000001,
+					"height": 9,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 115.82,
+					"y": 263.33000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.86,
+					"y": 263.33000000000004,
+					"str": "Respeta a los demás y es flexible frente a la diferencia de procedimientos para resolver un mismo problema. ",
+					"dir": "ltr",
+					"width": 357.2819999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 475.42,
+					"y": 263.33000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 274.37,
+					"str": "•",
+					"dir": "ltr",
+					"width": 4.140000000000001,
+					"height": 9,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 115.82,
+					"y": 274.37,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 117.86,
+					"y": 274.37,
+					"str": "Presentar buena disposición en las activi",
+					"dir": "ltr",
+					"width": 133.76700000000002,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 251.81,
+					"y": 274.37,
+					"str": "dades extracurriculares",
+					"dir": "ltr",
+					"width": 76.73400000000001,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 328.51,
+					"y": 274.37,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 286.01,
+					"str": "5.1.3 Estrategias Didácticas:",
+					"dir": "ltr",
+					"width": 110.72532000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 222.53,
+					"y": 286.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 121.46,
+					"y": 299.81,
+					"str": "ED3",
+					"dir": "ltr",
+					"width": 14.300999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 299.81,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.46,
+					"y": 310.13,
+					"str": "ED",
+					"dir": "ltr",
+					"width": 10.245,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 131.66,
+					"y": 310.13,
+					"str": "9",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 310.13,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 121.46,
+					"y": 320.45,
+					"str": "ED5",
+					"dir": "ltr",
+					"width": 14.300999999999998,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 135.86,
+					"y": 320.45,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 299.81,
+					"str": "Sesiones de Laboratorio",
+					"dir": "ltr",
+					"width": 79.911,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.69,
+					"y": 299.81,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 310.13,
+					"str": "Elaboración de Artículos",
+					"dir": "ltr",
+					"width": 79.974,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 236.69,
+					"y": 310.13,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 156.62,
+					"y": 320.45,
+					"str": "Método de Proyectos",
+					"dir": "ltr",
+					"width": 69.705,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 226.37,
+					"y": 320.45,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 333.65,
+					"str": "5.1.4",
+					"dir": "ltr",
+					"width": 18.258040000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 129.98,
+					"y": 333.65,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 132.26,
+					"y": 333.65,
+					"str": "Evaluación",
+					"dir": "ltr",
+					"width": 43.23636000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 175.61,
+					"y": 333.65,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 143.06,
+					"y": 349.49,
+					"str": "Tipo de evaluación",
+					"dir": "ltr",
+					"width": 66.50099999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 209.57,
+					"y": 349.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 260.09,
+					"y": 349.49,
+					"str": "Ponderación de las evaluaciones",
+					"dir": "ltr",
+					"width": 116.028,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 376.27,
+					"y": 349.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 405.7,
+					"y": 349.49,
+					"str": "Ponderación de la unidad 1",
+					"dir": "ltr",
+					"width": 96.05699999999999,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 501.7,
+					"y": 349.49,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 113.42,
+					"y": 360.41,
+					"str": "Examen de ",
+					"dir": "ltr",
+					"width": 39.266999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 152.66,
+					"y": 360.41,
+					"str": "unidad",
+					"dir": "ltr",
+					"width": 22.220999999999997,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 175.01,
+					"y": 360.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 360.41,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 360.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 360.41,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 360.41,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 446.38,
+					"y": 382.01,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 450.46,
+					"y": 382.01,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.104,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 454.54,
+					"y": 382.01,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 461.14,
+					"y": 382.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 371.21,
+					"str": "Informes de Laboratorio",
+					"dir": "ltr",
+					"width": 78.345,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 191.81,
+					"y": 371.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 371.21,
+					"str": "20",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 371.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 371.21,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 371.21,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 382.01,
+					"str": "Trabajos Encargados",
+					"dir": "ltr",
+					"width": 70.155,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 183.65,
+					"y": 382.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 382.01,
+					"str": "25",
+					"dir": "ltr",
+					"width": 8.16,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 317.95,
+					"y": 382.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 319.99,
+					"y": 382.01,
+					"str": "%",
+					"dir": "ltr",
+					"width": 6.561,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 382.01,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 392.81,
+					"str": "Proyecto de Curso",
+					"dir": "ltr",
+					"width": 61.07399999999999,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 174.53,
+					"y": 392.81,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 392.81,
+					"str": "25 %",
+					"dir": "ltr",
+					"width": 16.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 392.81,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 113.42,
+					"y": 403.61,
+					"str": "Actitudinal",
+					"dir": "ltr",
+					"width": 34.019999999999996,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 147.5,
+					"y": 403.61,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 309.79,
+					"y": 403.61,
+					"str": "10 %",
+					"dir": "ltr",
+					"width": 16.776,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 326.59,
+					"y": 403.61,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.052,
+					"height": 9,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 111.74,
+					"y": 415.39,
+					"str": "5.1.5 Bibliografía ",
+					"dir": "ltr",
+					"width": 67.93715999999999,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 179.69,
+					"y": 415.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 109.34,
+					"y": 432.55,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 117.14,
+					"y": 432.55,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 432.55,
+					"str": "DE LA TORRE, C. & ZORRILLA, U. & CALVARRO, J. & RAMOS, M.A.;”Guía de Arquitectura N",
+					"dir": "ltr",
+					"width": 357.81299999999993,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 485.62,
+					"y": 432.55,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.7190800000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 488.5,
+					"y": 432.55,
+					"str": "Capas ",
+					"dir": "ltr",
+					"width": 25.786440000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 127.34,
+					"y": 443.95,
+					"str": "orientado al ",
+					"dir": "ltr",
+					"width": 45.08892,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 172.49,
+					"y": 443.95,
+					"str": "Dominio con .NET 4.0”, Krasis Press, 2011",
+					"dir": "ltr",
+					"width": 156.11304000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 328.87,
+					"y": 443.95,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 109.34,
+					"y": 455.47,
+					"str": "✓",
+					"dir": "ltr",
+					"width": 7.828560000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 117.14,
+					"y": 455.47,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 127.34,
+					"y": 455.47,
+					"str": "TEACHING  SOFT  GROUP;  “Programación  en  Oracle  11g:  SQL,  SQL*Plus  y  PL/SQL”;  RA",
+					"dir": "ltr",
+					"width": 369.30684,
+					"height": 9.96,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 497.02,
+					"y": 455.47,
+					"str": "-",
+					"dir": "ltr",
+					"width": 2.7190800000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 499.78,
+					"y": 455.47,
+					"str": "MA ",
+					"dir": "ltr",
+					"width": 14.501760000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 127.34,
+					"y": 466.99,
+					"str": "EDITORIAL, 2011",
+					"dir": "ltr",
+					"width": 65.92524000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 193.49,
+					"y": 466.99,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 103.1,
+					"y": 478.87,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 85.104,
+					"y": 490.39,
+					"str": "6.",
+					"dir": "ltr",
+					"width": 6.849040000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 91.944,
+					"y": 490.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.7688800000000007,
+					"height": 9.96,
+					"fontName": "Helvetica"
+				},
+				{
+					"x": 103.1,
+					"y": 490.39,
+					"str": "PLAN",
+					"dir": "ltr",
+					"width": 22.220760000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 125.3,
+					"y": 490.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 129.5,
+					"y": 490.39,
+					"str": "DE  EVALUACIÓN  DE  LA  ASIGNATURA",
+					"dir": "ltr",
+					"width": 159.05124000000004,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 288.67,
+					"y": 490.39,
+					"str": ": ",
+					"dir": "ltr",
+					"width": 5.071760000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 295.63,
+					"y": 490.39,
+					"str": "Sumados  los  criterios  deben  dar  el  100%  de  la  Unidad",
+					"dir": "ltr",
+					"width": 214.60812000000007,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 510.46,
+					"y": 490.39,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 103.1,
+					"y": 501.91,
+					"str": "Didáctica.",
+					"dir": "ltr",
+					"width": 35.856,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 139.1,
+					"y": 501.91,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 121.1,
+					"y": 513.31,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 222.77,
+					"y": 526.03,
+					"str": "Unidades Didácticas",
+					"dir": "ltr",
+					"width": 80.18796,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 302.95,
+					"y": 526.03,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 336.91,
+					"y": 526.03,
+					"str": "Ponderación",
+					"dir": "ltr",
+					"width": 49.69044000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 386.59,
+					"y": 526.03,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 210.89,
+					"y": 538.75,
+					"str": "Primera Unidad Didáctica",
+					"dir": "ltr",
+					"width": 92.80728,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 303.91,
+					"y": 538.75,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 210.89,
+					"y": 550.15,
+					"str": "Segunda Unidad Didáctica",
+					"dir": "ltr",
+					"width": 96.88092,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 307.99,
+					"y": 550.15,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 210.89,
+					"y": 561.67,
+					"str": "Tercera Unidad Didáctica",
+					"dir": "ltr",
+					"width": 92.32920000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 303.43,
+					"y": 561.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 353.47,
+					"y": 538.75,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.541760000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 358.03,
+					"y": 538.75,
+					"str": "4",
+					"dir": "ltr",
+					"width": 4.541760000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 362.59,
+					"y": 538.75,
+					"str": "%",
+					"dir": "ltr",
+					"width": 7.260840000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 369.91,
+					"y": 538.75,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 353.47,
+					"y": 550.15,
+					"str": "33",
+					"dir": "ltr",
+					"width": 9.119920000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 362.59,
+					"y": 550.15,
+					"str": "%",
+					"dir": "ltr",
+					"width": 7.260840000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 369.91,
+					"y": 550.15,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 353.47,
+					"y": 561.67,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.541760000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 358.03,
+					"y": 561.67,
+					"str": "3",
+					"dir": "ltr",
+					"width": 4.541760000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 362.59,
+					"y": 561.67,
+					"str": "%",
+					"dir": "ltr",
+					"width": 7.260840000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 369.91,
+					"y": 561.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 262.13,
+					"y": 573.67,
+					"str": "Total",
+					"dir": "ltr",
+					"width": 19.6212,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 281.69,
+					"y": 573.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 350.11,
+					"y": 573.67,
+					"str": "100 %",
+					"dir": "ltr",
+					"width": 23.248000000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 373.39,
+					"y": 573.67,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 85.104,
+					"y": 585.7,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 85.104,
+					"y": 597.1,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 317.83,
+					"y": 608.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 353.23,
+					"y": 608.62,
+					"str": "Elaborado por:",
+					"dir": "ltr",
+					"width": 58.32576000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 411.7,
+					"y": 608.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 413.98,
+					"y": 608.62,
+					"str": "Patrick Cuadros Quiroga",
+					"dir": "ltr",
+					"width": 96.47255999999999,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 510.46,
+					"y": 608.62,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 349.51,
+					"y": 620.14,
+					"str": "                            ",
+					"dir": "ltr",
+					"width": 63.840000000000025,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 413.38,
+					"y": 620.14,
+					"str": "Docente de la asignatura",
+					"dir": "ltr",
+					"width": 97.07016000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 510.46,
+					"y": 620.14,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 332.95,
+					"y": 633.34,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 367.39,
+					"y": 646.54,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 402.82,
+					"y": 646.54,
+					"str": "         ",
+					"dir": "ltr",
+					"width": 20.520000000000007,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 423.34,
+					"y": 646.54,
+					"str": "Tacna, ",
+					"dir": "ltr",
+					"width": 28.25652000000001,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 451.66,
+					"y": 646.54,
+					"str": "marzo",
+					"dir": "ltr",
+					"width": 24.172920000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 475.9,
+					"y": 646.54,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 478.18,
+					"y": 646.54,
+					"str": "del ",
+					"dir": "ltr",
+					"width": 14.113320000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 492.34,
+					"y": 646.54,
+					"str": "20",
+					"dir": "ltr",
+					"width": 9.119920000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 501.46,
+					"y": 646.54,
+					"str": "20",
+					"dir": "ltr",
+					"width": 9.119920000000002,
+					"height": 9.96,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 510.46,
+					"y": 646.54,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2708800000000005,
+					"height": 9.96,
+					"fontName": "g_d0_f3"
+				}
+			]
+		}
+	],
+	"filename": "./bd.pdf"
+}

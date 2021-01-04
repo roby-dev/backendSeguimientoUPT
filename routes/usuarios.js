@@ -15,6 +15,7 @@ const {
 	comprobarPassword,
 	cambiarPassword,
 } = require('../controllers/usuarios');
+
 const {
 	validarJWT,
 	validarDIRECTOR_ROLE,

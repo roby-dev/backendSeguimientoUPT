@@ -8,7 +8,7 @@ const getUsuarios = async (req, res) => {
 	const desde = Number(req.query.desde) || 0;
 
 	const [usuarios, total] = await Promise.all([
-		Usuario.find({}, 'nombres apellidos email role imagen',{sort:{apellidos:1}}).skip(desde).limit(10),
+		Usuario.find({}, 'nombres apellidos email role imagen', { sort: { apellidos: 1 } }).skip(desde).limit(10),
 		Usuario.countDocuments(),
 	]);
 
@@ -19,20 +19,20 @@ const getUsuarios = async (req, res) => {
 	});
 };
 
-const getAllUsers = async(req=request,res=response) =>{
-	const usuarios = await Usuario.find({}, 'nombres apellidos email role imagen',{sort:{apellidos:1}});
+const getAllUsers = async (req = request, res = response) => {
+	const usuarios = await Usuario.find({}, 'nombres apellidos email role imagen', { sort: { apellidos: 1 } });
 	res.status(200).json({
-		ok:true,
+		ok: true,
 		usuarios
 	});
 };
 
-const getUsuarioById = async (req,res=response) =>{
+const getUsuarioById = async (req, res = response) => {
 	const id = req.params.id;
 
 	try {
-		const usuario = await await Usuario.findById(id);				
-		
+		const usuario = await await Usuario.findById(id);
+
 		res.json({
 			ok: true,
 			usuario,
@@ -86,7 +86,6 @@ const crearUsuario = async (req, res = response) => {
 
 const actualizarUsuario = async (req, res = response) => {
 	//TODO: VAlidar token y comprobar si  es el usuario correcto
-
 	const uid = req.params.id;
 
 	try {
@@ -100,7 +99,7 @@ const actualizarUsuario = async (req, res = response) => {
 
 		//Actualizaciones
 		const { password, ...campos } = req.body;
-		
+
 		if (usuarioDB.email != req.body.email) {
 			const existeEmail = await Usuario.findOne({ email: req.body.email });
 			if (existeEmail) {
@@ -109,7 +108,7 @@ const actualizarUsuario = async (req, res = response) => {
 					msg: 'Ya existe un usuario con ese email, Ups',
 				});
 			}
-		}		
+		}
 
 		const usuarioActualizado = await Usuario.findByIdAndUpdate(uid, campos, { new: true });
 
@@ -117,8 +116,8 @@ const actualizarUsuario = async (req, res = response) => {
 			ok: true,
 			msg: 'Usuario actualizado correctamente',
 			usuario: usuarioActualizado,
-        });
-        
+		});
+
 	} catch (error) {
 		console.log(error);
 		res.status(500).json({
@@ -128,28 +127,30 @@ const actualizarUsuario = async (req, res = response) => {
 	}
 };
 
-const comprobarPassword = async (req=request,res=response)=>{
-	const {password,uid}=req.body;
-	const _id=uid;
+
+
+const comprobarPassword = async (req = request, res = response) => {
+	const { password, uid } = req.body;
+	const _id = uid;
 	const id = req.uid;
 
 
-	const usuarioDB = await Usuario.findById({_id});
-		if (!usuarioDB) {
-			return res.status(404).json({
-				ok: false,
-				msg: 'No existe usuario',
-			});
-		}
+	const usuarioDB = await Usuario.findById({ _id });
+	if (!usuarioDB) {
+		return res.status(404).json({
+			ok: false,
+			msg: 'No existe usuario',
+		});
+	}
 
-	if(id!=usuarioDB._id){
-			return res.status(404).json({
-				ok:false,
-				msg:"No tienes permisos"
-			});
-		}
-	
-		//verificar contraseña
+	if (id != usuarioDB._id) {
+		return res.status(404).json({
+			ok: false,
+			msg: "No tienes permisos"
+		});
+	}
+
+	//verificar contraseña
 	const validPassword = bcrypt.compareSync(password, usuarioDB.password);
 	if (!validPassword) {
 		return res.status(400).json({
@@ -165,38 +166,38 @@ const comprobarPassword = async (req=request,res=response)=>{
 }
 
 
-const cambiarPassword = async (req=request,res=response)=>{
-	const {pass1,uid}=req.body;
+const cambiarPassword = async (req = request, res = response) => {
+	const { pass1, uid } = req.body;
 	var password;
-	const _id=uid;
+	const _id = uid;
 	const id = req.uid;
 
 
-	const usuarioDB = await Usuario.findById({_id});
-		if (!usuarioDB) {
-			return res.status(404).json({
-				ok: false,
-				msg: 'No existe usuario',
-			});
-		}
+	const usuarioDB = await Usuario.findById({ _id });
+	if (!usuarioDB) {
+		return res.status(404).json({
+			ok: false,
+			msg: 'No existe usuario',
+		});
+	}
 
-	if(id!=usuarioDB._id){
-			return res.status(404).json({
-				ok:false,
-				msg:"No tienes permisos"
-			});
-		}
-	
-		const salt = bcrypt.genSaltSync();
-		usuarioDB.password = bcrypt.hashSync(pass1, salt);		
+	if (id != usuarioDB._id) {
+		return res.status(404).json({
+			ok: false,
+			msg: "No tienes permisos"
+		});
+	}
 
-		const usuarioActualizado = await Usuario.findByIdAndUpdate(id, usuarioDB, { new: true });4
+	const salt = bcrypt.genSaltSync();
+	usuarioDB.password = bcrypt.hashSync(pass1, salt);
 
-		res.status(200).json({
-			ok: true,
-			msg: 'Usuario actualizado correctamente',
-			usuario: usuarioActualizado,
-        });
+	const usuarioActualizado = await Usuario.findByIdAndUpdate(id, usuarioDB, { new: true }); 4
+
+	res.status(200).json({
+		ok: true,
+		msg: 'Usuario actualizado correctamente',
+		usuario: usuarioActualizado,
+	});
 }
 
 
@@ -213,10 +214,10 @@ const borrarUsuario = async (req = request, res = response) => {
 			});
 		}
 
-		if(id==uid){
+		if (id == uid) {
 			return res.status(404).json({
-				ok:false,
-				msg:"No puedes borrarte a ti mismo"
+				ok: false,
+				msg: "No puedes borrarte a ti mismo"
 			});
 		}
 
@@ -226,6 +227,7 @@ const borrarUsuario = async (req = request, res = response) => {
 			ok: true,
 			msg: 'Usuario Eliminado',
 		});
+
 	} catch (error) {
 		res.status(500).json({
 			ok: false,
